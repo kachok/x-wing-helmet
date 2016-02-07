@@ -8,10 +8,10 @@
 
 See `/sketch` for files
 
-[Decal application tutorial](https://www.youtube.com/watch?v=-XcBe9T6X7w)
-
 Use "trasnparency" paper type on HP printer (works on CP1525nw)
 
-Final result
+[Decal application tutorial](https://www.youtube.com/watch?v=-XcBe9T6X7w)
+
+##Final result
 
 ![Dosmit Ræh helmet (X-wing starfighter with the Tierfon Yellow Aces)](raeh.jpg)
